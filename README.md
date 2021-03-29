@@ -27,3 +27,7 @@ three reasons why:
 * It's a useful body of work, knowledge and opportunity to have freely available to the wider community.
 
 * It's important to encourage empowerment in the digital world.
+
+## Code of Conduct
+
+Trust, partnership, simplicity and passion are our core values we live and breathe in our daily work life and within our projects. Our open-source projects are no exception. We have an active community which spans the globe and we welcome and encourage participation and contributions to our projects by everyone. We work to foster a positive, open, inclusive and supportive environment and trust that our community respects the micro:bit code of conduct. Please see our [code of conduct](https://microbit.org/safeguarding/) which outlines our expectations for all those that participate in our community and details on how to report any concerns and what would happen should breaches occur.
